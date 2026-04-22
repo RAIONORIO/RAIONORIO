@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Raí Onório
 
-<!--
-**RAIONORIO/RAIONORIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer com foco em APIs escaláveis e aplicações web completas
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- Front-end: React.js, Next.js, TypeScript
+- Back-end: Python (FastAPI)
+- Banco de dados: PostgreSQL, MySQL, Oracle
+- Estilização: Tailwind CSS, CSS3
+- Ferramentas: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência
+Atuação como desenvolvedor freelancer e experiência em ambiente corporativo (FWNET), trabalhando com:
+- Desenvolvimento de APIs REST
+- Integração entre front-end e back-end
+- Debugging e análise de sistemas
+- Desenvolvimento de aplicações completas
+
+## 🚀 Projetos
+- Sistemas web completos (front + back)
+- APIs REST com FastAPI
+- Dashboards e landing pages responsivas
+
+## 📫 Contato
+- 📧 raionorio0204@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ra%C3%AD-on%C3%B3rio-30a003243/
+- 🌐 Portfólio: https://raionorio.github.io/LandigPortRony/
